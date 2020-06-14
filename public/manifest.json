@@ -1,0 +1,36 @@
+{
+  "name": "Make Live International",
+  "short_name": "Make Live Int",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#019249",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/public/images/logos/device_icons/hdpi.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/public/images/logos/device_icons/xhdpi.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/public/images/logos/device_icons/xxhdpi.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/public/images/logos/device_icons/xxxhdpi.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/public/images/logos/device_icons/GooglePlayStore.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
